@@ -2,6 +2,7 @@
 
 # CloudFlare_PingApp
 
+In Response to Cloudflare Internship Application: Systems
 CloudFlare_PingApp is a CLI application that emulates the ping command.
 
 
@@ -37,22 +38,3 @@ Socket set to TTL..
 This Application has been repurposed by Kevin Fox
 Original: https://www.geeksforgeeks.org/ping-in-c/
 
-
->In Response to Cloudflare Internship Application: Systems
->>By:Kevin Fox
-
-
-This application is emulate the ping function.
-
-
-> Compile the C code using
-```
-gcc -o pingApp pingApp.c
-```
-
-> Example
-```
-sudo ./pingApp Google.com
-```
-To end the pings press ctrl + c
-Diagnostics will then be displayed
