@@ -6,18 +6,14 @@ By:Kevin Fox
 This application is emulate the ping function.
 
 
-Compile the C code using
+**Compile the C code using
 ```
 gcc -o pingApp pingApp.c
 ```
 
-Command
-./pingApp address
-
-
-Example
+**Example
 ```
-sudo ./pingApp google.com
+sudo ./pingApp Google.com
 ```
 To end the pings press ctrl + c
 Diagnostics will then be displayed
