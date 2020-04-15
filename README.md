@@ -5,11 +5,14 @@ By:Kevin Fox
 
 This application is emulate the ping function.\n
 Compile the C code using
+```
 gcc -o pingApp pingApp.c
+```
 
 Use
+```
 ./pingApp address
-  
+```
 
 Example
 sudo ./pingApp google.com
