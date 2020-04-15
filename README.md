@@ -6,12 +6,12 @@ By:Kevin Fox
 This application is emulate the ping function.
 
 
-##Compile the C code using
+#Compile the C code using
 ```
 gcc -o pingApp pingApp.c
 ```
 
-##Example
+#Example
 ```
 sudo ./pingApp Google.com
 ```
