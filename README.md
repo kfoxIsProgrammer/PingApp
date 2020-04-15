@@ -2,14 +2,16 @@
 
 # CloudFlare_PingApp
 
-CloudFlare_PingApp is a CLI application that emulates the ping command
+CloudFlare_PingApp is a CLI application that emulates the ping command.
 
 
 ## Usage
 
 ```
 ./pingApp Google.com
-
+```
+## Output
+```
 Resolving DNS..
 
 Trying to connect to 'Google.com' IP: 172.217.13.174
@@ -32,7 +34,8 @@ Socket set to TTL..
 
 
 ## License
-license:cc
+This Application has been repurposed by Kevin Fox
+Original: https://www.geeksforgeeks.org/ping-in-c/
 
 
 >In Response to Cloudflare Internship Application: Systems
