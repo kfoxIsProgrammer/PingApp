@@ -2,6 +2,7 @@
 This application is emulate the ping function.
 
 Compile the C code using
+
 \gcc -o pingApp pingApp.c
 
 Use\
